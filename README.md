@@ -1,6 +1,6 @@
 # Simple CRUD React App
 
-Create, update and delete users. ![App](https://crud-user-list.netlify.app/)
+Create, update and delete users. [App](https://crud-user-list.netlify.app/)
 
 ## Built with:
 
