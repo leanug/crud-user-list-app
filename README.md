@@ -7,7 +7,7 @@ Create, update and delete users. ![App](crud-user-list.netlify.app)
 - Bootstrap
 - React
 
-![Home Image](https://github.com/leanug/crud-user-list-app/tree/main/public/screenshot.jpg)
+![Home Image](https://github.com/leanug/crud-user-list-app/blob/main/public/screenshot.jpg)
 
 ## Install:
 
